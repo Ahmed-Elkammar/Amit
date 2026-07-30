@@ -8,3 +8,5 @@ This repository is designed for Python projects related to Machine Learning.
 
 ## Getting Started
 To get started with this project, clone the repository and navigate to the `python-for-ml` folder.
+## Python Scripts
+- `hello.py`: Welcomes the user, accepts two numbers, adds them, and prints the result.
